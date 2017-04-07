@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Barometer</string>
+    <string name="no_sensor">No pressure sensor on the device.</string>
 </resources>
